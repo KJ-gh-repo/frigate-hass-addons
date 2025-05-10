@@ -16,7 +16,7 @@ panel_admin: false
 ports:
   5001/tcp: 5001
 ports_description:
-  5001/tcp: Web interface (Not required for Hass.io Ingress), 5000 is in use by frigate proxy
+  5001/tcp: Web interface (Not required for Hass.io Ingress), 5000 is in use by frigate proxy so 5001 is choosen for portainer proxy
 host_network: false
 devices: []
 usb: false
