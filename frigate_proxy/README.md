@@ -1,10 +1,11 @@
-# Home Assistant Add-on: Frigate Proxy
+# Home Assistant Add-on: Portainer Proxy
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
-This addon creates a proxy to a Frigate server run separately from Home Assistant so that you can have the benefit of access in the sidebar without running Frigate as an addon.
+This addon creates a proxy to a Portainer server run separately from Home Assistant so that you can have the benefit of access in the sidebar.
 
-Note that this addon does not run Frigate itself.
+Note that this addon does not run Portainer itself.
+Note this addon is a simple copy/edit of Frigate HASS addons (https://github.com/blakeblackshear/frigate-hass-addons)
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
