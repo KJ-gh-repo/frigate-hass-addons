@@ -1,5 +1,5 @@
 server {
-    listen 5000 default_server;
+    listen 5001 default_server;
 
     include /etc/nginx/includes/server_params.conf;
 
