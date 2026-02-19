@@ -1,5 +1,5 @@
 name: Portainer Proxy
-version: "1.5.4"
+version: "1.5.5"
 panel_icon: "mdi:arrow-decision"
 panel_title: Portainer
 slug: portainer-proxy
